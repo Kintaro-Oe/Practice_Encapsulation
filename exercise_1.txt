@@ -1,0 +1,16 @@
+Group the methods in these examples:
+
+Bank
+  - credit_account(date, amount)
+  - debit_account(date, amount)
+
+          - get_balance
+          - print_statement
+
+
+SecretDiary
+  - lock
+  - unlock
+
+        - add_entry
+        - get_entries
